@@ -1,6 +1,6 @@
 # XAMPP Dockerfile
 
-This is a Dockerfile to build XAMPP based on ubuntu:16.04, and you also can find it on [Docker Hub](https://hub.docker.com/r/fuyuanli/xampp/) .
+This is a Dockerfile to build XAMPP based on ubuntu:16.04, and you can also find it on [Docker Hub](https://hub.docker.com/r/fuyuanli/xampp/) .
 
 ### Build Image From Dockerfile
 
