@@ -33,3 +33,5 @@ The path `/opt/lampp/htdocs` is the web root directory , mount it, let you edit 
 ### Access Your Contaier
 
 Usig the command `docker exec -it fuyuanli/xampp bash` to run `bash` in the live container, and you can use command `mysql`, `php`... without `cd /opt/lampp/bin` , the path has been added in `/root/.bashrc`.
+
+如果你看的懂中文的話，那就看英文吧。懶得再打了XDDD。
