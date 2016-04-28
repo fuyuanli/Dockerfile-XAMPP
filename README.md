@@ -26,7 +26,7 @@ Setup 2 : Now you have a xampp image,and using command `docker run` to run , and
 
 The path `/opt/lampp/htdocs` is the web root directory , mount it so you can edit your website easily.
 
-    $ docker run -v /to/your/path:/opt/lampp/htdocs -p 80:80 -p 443:443 -p 3306:3306 fuyuanli/xampp
+    $ docker run -v -d /to/your/path:/opt/lampp/htdocs -p 80:80 -p 443:443 -p 3306:3306 fuyuanli/xampp
 
 The path `/opt/lampp/htdocs` is the web root directory , mount it, let you edit the website easily.
 
